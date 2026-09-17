@@ -55,6 +55,10 @@ Until the upstream behavior is changed, the safe recovery pattern is:
 - Repro source: [`repro/repro.py`](./repro/repro.py)
 - Machine-readable result snapshots: [`logs/`](./logs/)
 
-## XBSTACK article
+## XBSTACK context
 
-A full production analysis will be linked here after the site article passes XBSTACK's search-demand, duplication, bilingual, content-quality, and release gates.
+The related production architecture page now includes the verified stale-session lifecycle boundary and recovery notes:
+
+- https://www.xbstack.com/ai/mcp-vs-function-calling/?utm_source=github&utm_medium=referral&utm_campaign=google_adk_mcp_scale_to_zero&utm_content=repository_readme
+
+A dedicated article will only be created if the issue develops an independent long-term search intent that justifies a separate URL.
