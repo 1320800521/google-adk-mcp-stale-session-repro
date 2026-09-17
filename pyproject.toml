@@ -1,0 +1,7 @@
+[project]
+name = "google-adk-mcp-stale-session-scale-to-zero-repro"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "google-adk[mcp]==2.9.1",
+]
